@@ -1,0 +1,8 @@
+*
+!.gitignore
+!*.bas
+!*.BAS
+!*.md
+!*.asm
+!*.bin
+!*.png
