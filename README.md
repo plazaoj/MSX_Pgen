@@ -10,6 +10,8 @@ Pinta en pantalla un laberinto
 
 Variando los valores de `SD` (línea 70) se obtienen distintos laberintos.
 
+![Un posible laberinto generado](mapa.png)
+
 ## PGEN5.BAS
 
      LOAD"PGEN5.BAS",R
@@ -24,7 +26,7 @@ Al chochar con las paredes generalmente cambia de sentido, pero puede atravesar 
 
 Rutina en código máquina para pintar las paredes del laberinto. 
 
-Compilar con asmsx. El fichero `lab.bin` creado es cargado por `PGEN5.BAS`.
+Compilar con `asmsx`. El fichero `lab.bin` creado es cargado por `PGEN5.BAS`.
 
 Dirección de inicio y ejecución: `&HC000`
 
