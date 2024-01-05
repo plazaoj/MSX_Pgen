@@ -30,6 +30,10 @@ Compilar con `asmsx`. El fichero `lab.bin` creado es cargado por `PGEN5.BAS`.
 
 Dirección de inicio y ejecución: `&HC000`
 
+## Enlace
+
+http://cacharreomsx.blogspot.com/2024/01/generacion-procedimental.html
+
 ## Disclaimer
 
 Este código ni se mantiene ni se actualiza. Simplemente se comparte para quien pueda interesar. Úsalo por tu cuenta y riesgo.
