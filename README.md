@@ -24,7 +24,9 @@ Al chochar con las paredes generalmente cambia de sentido, pero puede atravesar 
 
 Rutina en código máquina para pintar las paredes del laberinto. 
 
-Compilar con asmsx. El fichero `lab.bin` creado es cargado por `PGEN5.BAS`
+Compilar con asmsx. El fichero `lab.bin` creado es cargado por `PGEN5.BAS`.
+
+Dirección de inicio y ejecución: `&HC000`
 
 ## Disclaimer
 
